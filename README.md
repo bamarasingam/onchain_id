@@ -3,7 +3,7 @@
 ## Bringing offchain identification onchain
 
 ### Steps of Implementation
-The following are a rough guideline of the steps which will be taken in order too accomplish this. Granted, the roadmap is open too be changed as I'm not 100% certain that this implementation in which I envision it will work completly.
+The following are a rough guideline of the steps which will be taken in order too accomplish this. Granted, the roadmap is open too be changed as not 100% certain that this implementation in which we envision it will work completly.
 
 - Develop live facial recognition
 - Figure out a way too inscribe information from facial recognition into an NFT or SBT(Soulbound Token)
@@ -11,4 +11,4 @@ The following are a rough guideline of the steps which will be taken in order to
 - May implement further forms of identification, but will start with just facial recognition.
 
 Will work with some EVM native chain (ex. Ethereum, Base, Optimism, etc.) 
-Will build facial recognition model on Python
+Will build facial recognition model on Python using various libraries
